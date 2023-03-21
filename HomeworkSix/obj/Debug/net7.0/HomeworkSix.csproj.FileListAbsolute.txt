@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/bin/Debug/net7.0/HomeworkSix
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/bin/Debug/net7.0/HomeworkSix.deps.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/bin/Debug/net7.0/HomeworkSix.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/bin/Debug/net7.0/HomeworkSix.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/bin/Debug/net7.0/HomeworkSix.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/refint/HomeworkSix.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/HomeworkSix.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_6/HomeworkSix/obj/Debug/net7.0/ref/HomeworkSix.dll
